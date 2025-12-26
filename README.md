@@ -67,7 +67,7 @@ Random Forest (based on overall balanced performance)
 
 ---
 
-## 🧰 Tools & Technologies
+## Tools & Technologies
 - Python  
 - Pandas, NumPy  
 - Matplotlib, Seaborn  
